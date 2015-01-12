@@ -40,19 +40,27 @@ Artists:
   
   Ryan
 
+--------------------
+
 Musician:
 
 	Bailey Kincaid
+
+--------------------
 	
 Level Design:
 
 	Calaway Childress
+	
+--------------------
 	
 Animation:
 
 	Georgia Lewis
 	
 	Calaway Childress
+	
+--------------------
 	
 Other:
 
