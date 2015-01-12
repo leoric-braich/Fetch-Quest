@@ -13,33 +13,47 @@ Sponsor:
 	Mr. Poland
 
 Programmers:
+
   Hunter Larabee
   
   Andrew Peterson
   
   Amy Liu
+  
   Will Jones
+  
   Doug
+  
   Eric
+  
   Uday
 
 Artists:
+
   Jordan Hale
+  
   Georgia Lewis
+  
   Chance
+  
   Ryan
 
 Musician:
+
 	Bailey Kincaid
 	
 Level Design:
+
 	Calaway Childress
 	
 Animation:
+
 	Georgia Lewis
+	
 	Calaway Childress
 	
 Other:
+
 	Patrick
 
 Enemies:
