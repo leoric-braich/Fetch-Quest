@@ -14,7 +14,9 @@ Sponsor:
 
 Programmers:
   Hunter Larabee
+  
   Andrew Peterson
+  
   Amy Liu
   Will Jones
   Doug
