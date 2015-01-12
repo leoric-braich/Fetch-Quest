@@ -10,6 +10,7 @@ Team Leaders:
 	Andrew Peterson
 
 Sponsor:
+
 	Mr. Poland
 
 Programmers:
