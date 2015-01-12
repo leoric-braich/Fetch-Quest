@@ -4,9 +4,9 @@ A Game Design Project developed by:Stone Bridge High School Programming and Robo
 
 The team:As far as I can remember (sorry if I forget anyone or misspell your name).
 Team Leaders:
-	Jordan Hale
-	Calaway Childress
-	Hunter Larabee
+	Jordan Hale, 
+	Calaway Childress, 
+	Hunter Larabee, 
 	Andrew Peterson
 
 Sponsor:
